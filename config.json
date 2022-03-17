@@ -1,0 +1,21 @@
+{
+  "prefix": "d/",
+  "token": "Token",
+  "clientId": "The id of the bot",
+  "guildId": "The id of the server used for the bot",
+
+  "autoRole": "The role to give when someone join the server",
+  "roleSoutien": "The role to give when someone insert the invite link of the server",
+
+
+  "suggestionChannel": "The channel where the suggestion will be send",
+
+
+  "emojis": {
+    "check": "860256154398752789",
+    "x": "860256154323255325"
+  },
+
+
+  "deeplApiKey": "The api key of the deepl api"
+}
